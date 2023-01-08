@@ -7,8 +7,9 @@ export default function CodedBy() {
       <br />
       <a
         className="github-link"
-        href="https://github.com/eutterodt/WetterApplikation.git"
+        href="https://github.com/eutterodt/react-weather-app"
         target="blank"
+        rel="noreferrer"
         aria-label="link to github"
       >
         view open source code on github
