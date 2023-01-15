@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./styles.css";
 import axios from "axios";
 import WeatherContent from "./WeatherContent";
-import WeatherIcon from "./WeatherIcon";
 
 export default function WeatherApp() {
   const [city, setCity] = useState("New York");
