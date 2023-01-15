@@ -69,18 +69,19 @@ li::first-letter {
 }
 
 
-img {
-  width: 60px; 
+.weathericon {
+width: 60px; 
 margin-left: 2rem;
-margin-right: 1rem;
+float: left;
   height: auto;
   vertical-align: middle;
 }
 
 .displaytemperature {
-  font-size: 40px;
+  font-size: 55px;
   color: cadetblue;
   font-weight: 400;
+  float: left;
   vertical-align: middle;
 }
 .unit {
