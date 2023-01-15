@@ -91,6 +91,16 @@ float: left;
   vertical-align: top;
 }
 
+.unitlink {
+  color: gray;
+  text-decoration: none;
+}
+
+.unitlink:hover {
+  color: cadetblue;
+  text-decoration: underline;
+}
+
 .github-link {
   font-family: sans-serif;
   color: cadetblue;
