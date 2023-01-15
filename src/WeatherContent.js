@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import FormattedDate from "./FormattedDate";
 
 export default function WeatherContent(props) {
