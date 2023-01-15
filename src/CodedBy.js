@@ -3,8 +3,7 @@ import React from "react";
 export default function CodedBy() {
   return (
     <small>
-      Coded by Elisa Utterodt
-      <br />
+      Coded by Elisa Utterodt {" "}
       <a
         className="github-link"
         href="https://github.com/eutterodt/react-weather-app"

@@ -5,8 +5,10 @@ import WeatherContent from "./WeatherContent";
 export default function WeatherApp() {
   return (
     <div className="outer-wrapper">
-      <WeatherContent />
-      <CodedBy />
+      <div className="container">
+        <WeatherContent />
+        <CodedBy />
+      </div>
     </div>
   );
 }
